@@ -10,7 +10,7 @@ Osedea has developed a library to help with form validation. We encourage you to
 
     - https://github.com/Osedea/angular-osd-form
 
-We've started an angular module for you in /public/javascripts/app.js. You can use this fro binding the form data.
+We've started an angular module for you in /public/javascripts/app.js. You can use this module for binding the form data.
 
 Feel free to refactor this project however you feel is necessary.
 
