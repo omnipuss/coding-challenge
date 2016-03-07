@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Osedea
 
 Welcome to our coding challenge
@@ -17,3 +18,7 @@ Feel free to refactor this project however you feel is necessary.
 ###Getting started
     - Install dependencies using `npm install`
     - Start express sever using `npm start`
+=======
+# coding-challenge
+Coding challenge
+>>>>>>> da28d7d9dec67d8d8669b60dbfeec2709008c70e
